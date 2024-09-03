@@ -3,4 +3,4 @@
 //Date: 09/03/2024
 #include <studio.h>
 
-int main() {printf("Hello, World!");}
+int main() {printf("Bye, World!");}
